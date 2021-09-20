@@ -1,4 +1,4 @@
-# DSB
+# DSB modulation
 Realtime DSB communication system simulation
 
 We have three matlab functions: modulator, channel, and demodulator.
