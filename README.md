@@ -1,7 +1,7 @@
 # DSB modulation
 Realtime DSB communication system simulation
 
-We have three matlab functions: modulator, channel, and demodulator.
+There are three matlab functions: modulator, channel, and demodulator.
 
 After running DSB.m we can hear a white noise added to the audio file "PinkPanther.wav"
 
